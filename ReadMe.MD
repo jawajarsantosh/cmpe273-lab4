@@ -1,4 +1,4 @@
-CRDT-works-on-POC
+POC of CRDT implementation
 
 
 WRITE:
